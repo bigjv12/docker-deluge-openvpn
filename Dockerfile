@@ -1,5 +1,5 @@
 FROM linuxserver/deluge:amd64-latest
-LABEL maintainer="Matthew Crenshaw"
+LABEL maintainer="Chris Riddle"
 
 VOLUME /config
 VOLUME /downloads
